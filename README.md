@@ -20,9 +20,9 @@
 <h3 align="left">My projects:</h3> 
 1 <p>Brand Shop</p>
 https://brand-shop-assignment-be609.web.app/
-2 <p>Brand Shop</p>
+2 <p>Community Food Sharing</p>
  https://community-food-sharing-70abe.web.app/
-3 <p>Brand Shop</p>
+3 <p>Skill Development Course</p>
  https://fanciful-blini-5c1636.netlify.app/
 <p align="left">
 </p>
