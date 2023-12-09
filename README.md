@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">My projects:</h3> 
- -  https://brand-shop-assignment-be609.web.app/
- -  https://community-food-sharing-70abe.web.app/
- -  https://fanciful-blini-5c1636.netlify.app/
- - 💬 Ask me about *React,JS*
+1 <p>Brand Shop</p>
+https://brand-shop-assignment-be609.web.app/
+ 2 https://community-food-sharing-70abe.web.app/
+ 3 https://fanciful-blini-5c1636.netlify.app/
 <p align="left">
 </p>
 
