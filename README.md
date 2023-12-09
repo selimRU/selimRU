@@ -18,11 +18,11 @@
 
 <p>Linkedin:</p> https://www.linkedin.com/in/md-selim-reza-915aa4273/
 <h3 align="left">My projects:</h3> 
-1 <p>Brand Shop</p>
+1 Brand Shop
 https://brand-shop-assignment-be609.web.app/
-2 <p>Community Food Sharing</p>
+2 Community Food Sharing
  https://community-food-sharing-70abe.web.app/
-3 <p>Skill Development Course</p>
+3 Skill Development Course
  https://fanciful-blini-5c1636.netlify.app/
 <p align="left">
 </p>
