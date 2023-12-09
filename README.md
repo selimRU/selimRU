@@ -14,7 +14,9 @@
 - 📫 How to reach me *selim.ru.11.92@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">My projects:</h3> https://brand-shop-assignment-be609.web.app/
+<h3 align="left">My projects:</h3> - https://brand-shop-assignment-be609.web.app/
+- https://community-food-sharing-70abe.web.app/
+- https://fanciful-blini-5c1636.netlify.app/
 <p align="left">
 </p>
 
