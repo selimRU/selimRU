@@ -1,6 +1,7 @@
+(https://i.ibb.co/sm8S5bW/New-Project-2023-12-09-T120201-273.png)
 ### Hi there 👋, my name is Selim Reza
 #### I am a web developer 
-![I am a web developer ](https://i.ibb.co/sm8S5bW/New-Project-2023-12-09-T120201-273.png)
+![I am a web developer ]
 
 My vision is likely centered around becoming a proficient and versatile professional in the dynamic field of web development. I aspire to continually enhance my skills, staying abreast of the latest technologies and industry trends. My goal is to contribute to innovative and user-friendly web solutions that not only meet client requirements but also prioritize a seamless and enjoyable user experience.  Ultimately, my vision involves making a positive impact through my contributions to the digital landscape while fostering personal and professional growth in the ever-evolving world of web development.
 
