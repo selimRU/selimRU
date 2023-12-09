@@ -17,12 +17,12 @@
 <p>Facebook:</p> https://www.facebook.com/rajotto.razz
 
 <p>Linkedin:</p> https://www.linkedin.com/in/md-selim-reza-915aa4273/
-<h3 align="left">My projects:</h3> 
-- Brand Shop
+<h3 align="left">My project's Live Links:</h3> 
+1 Brand Shop
 https://brand-shop-assignment-be609.web.app/
-- Community Food Sharing
+2 Community Food Sharing
  https://community-food-sharing-70abe.web.app/
-- Skill Development Course
+3 Skill Development Course
  https://fanciful-blini-5c1636.netlify.app/
 <p align="left">
 </p>
